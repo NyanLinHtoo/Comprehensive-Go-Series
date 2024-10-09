@@ -1,1 +1,1 @@
-# Comprehensive-Go-Tutorial
+# Comprehensive-Go-Series
